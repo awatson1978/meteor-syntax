@@ -1,0 +1,11 @@
+{
+  "name": "meteor-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Isomorphic Meteor API for the Atom Editor!",
+  "repository": "https://github.com/awatson1978/meteor-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
